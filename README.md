@@ -49,11 +49,11 @@ Users can enter their login details, create a new account, navigate between the 
 
 ### Login Page
 
-![Login Page](Screenshot 2026-09-28 200155.png)
+<img width="693" height="933" alt="Screenshot 2026-09-28 200155" src="https://github.com/user-attachments/assets/adfbd0b4-760a-4cb1-9a08-29827c9ad6d7" />
 
 ### Registration Page
 
-![Registration Page](Screenshot 2026-09-28 200202.png)
+<img width="733" height="972" alt="Screenshot 2026-09-28 200202" src="https://github.com/user-attachments/assets/22cb7e0c-8e21-4a41-b0b2-45836c446d99" />
 
 ---
 
