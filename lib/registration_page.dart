@@ -82,7 +82,7 @@ class _RegistrationPageState
               const Icon(
                 Icons.person_add_outlined,
                 size: 90,
-                color: Colors.deepPurple,
+                color: const Color(0xFF10B981),
               ),
 
               const SizedBox(height: 20),

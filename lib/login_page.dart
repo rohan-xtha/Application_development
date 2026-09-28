@@ -61,7 +61,7 @@ class _LoginPageState extends State<LoginPage> {
               const Icon(
                 Icons.lock_outline,
                 size: 90,
-                color: Colors.deepPurple,
+                color: const Color(0xFF10B981),
               ),
 
               const SizedBox(height: 20),
