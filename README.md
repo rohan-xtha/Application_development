@@ -49,11 +49,11 @@ Users can enter their login details, create a new account, navigate between the 
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](Screenshot 2026-09-28 200155.png)
 
 ### Registration Page
 
-![Registration Page](screenshots/registration.png)
+![Registration Page](Screenshot 2026-09-28 200202.png)
 
 ---
 
